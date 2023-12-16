@@ -1,3 +1,5 @@
+# Насчет навигации ни слова не было, поэтому сделал простую навигацию через метод, но а так если нужно могу добавить Navigation Service
+
 # Код БД
 
 ![image](https://github.com/OverCome321/TestTaskForStecloMash/assets/113111030/2f0be238-46fc-4612-9ac9-3faccc01832b)
